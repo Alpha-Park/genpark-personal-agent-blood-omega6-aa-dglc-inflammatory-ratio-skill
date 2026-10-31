@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-blood-omega6-aa-dglc-inflammatory-ratio-skill",
+  "version": "1.0.0",
+  "title": "Arachidonic Acid to DGLA & EPA Inflammatory Eicosanoid Balance Skill",
+  "category": "Personal Agent (Bio / Lipid Signaling & Inflammation)",
+  "description": "Calculates Delta-5-Desaturase (D5D) activity index, Arachidonic Acid (AA) to Dihomo-gamma-linolenic acid (DGLA) ratio, and pro-inflammatory Leukotriene B4 / PGE2 propensity.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "compute_eicosanoid_lipid_mediator_balance"
+  ],
+  "dependencies": []
+}
